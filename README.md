@@ -17,8 +17,6 @@
 ---
 
 ##### Starting with torch: {#torch}
-
-
 ##### Autograd: {#torch.autograd}
 ##### JIT: {#torch.jit}
 ##### Neural Network: {#torch.nn}
@@ -27,3 +25,20 @@
 ---
 
 
+
+#### Neural Network:
+
+###### learning rate:
+###### learning rate scheduler:
+###### backward pass:
+###### zero grad:
+###### optimizer:
+###### batch norm:
+
+---
+
+
+#### Convolutional Neural Networks:
+![cnn visuals](image.png)
+
+---
