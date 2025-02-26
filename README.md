@@ -16,7 +16,7 @@
 
 ---
 
-##### torch:
+##### torch
 ##### torch.autograd
 ##### torch.jit
 ##### torch.nn
