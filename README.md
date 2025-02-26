@@ -10,21 +10,20 @@
 - [torch](#torch) (<i>tensor library</i>)
 - [torch.autograd](#torch.autograd) (<i>differentiation library which supports all tensor diff functions.</i>)
 - [torch.jit](#torch.jit) (<i>compilation stack</i>)
-- [torch.nn](#torch.nn) (<i></i>)
-- [torch.multiprocessing](#torch.multiprocessing) (<i></i>)
-- [torch.utils](#torch.utils) (<i></i>)
+- [torch.nn](#torch.nn) (<i>neural network library integrated with autograd</i>)
+- [torch.multiprocessing](#torch.multiprocessing) (<i>python multiprocessing</i>)
+- [torch.utils](#torch.utils) (<i>DataLoader and other features.</i>)
 
 ---
 
-##### Starging with torch {#torch}
+##### Starting with torch: {#torch}
 
 
-##### Autograd {#torch.autograd}
-
-##### JIT{#torch.jit}
-
-
-##### Neural Network {#torch.nn}
-##### Torch Utility {#torch.utils}
+##### Autograd: {#torch.autograd}
+##### JIT: {#torch.jit}
+##### Neural Network: {#torch.nn}
+##### Torch Utility: {#torch.utils}
 
 ---
+
+
