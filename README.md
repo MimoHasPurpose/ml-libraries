@@ -16,11 +16,11 @@
 
 ---
 
-##### Starting with torch:{#torch}
-##### Autograd:{#torch.autograd}
-##### JIT:{#torch.jit}
-##### Neural Network:{#torch.nn}
-##### Torch Utility:{#torch.utils}
+##### torch:
+##### torch.autograd
+##### torch.jit
+##### torch.nn
+##### torch.utils
 
 ---
 
