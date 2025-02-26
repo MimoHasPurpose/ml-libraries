@@ -4,4 +4,4 @@ learning pytorch from docs and youtube.
 - CNN
 - Neural Netowork
 - Tensors
-&lt;xmp> is disallowed.  &lt;XMP>
+&lt;iframe> is disallowed.  &lt;iframe>
